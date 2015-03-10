@@ -3,7 +3,7 @@
 applications:
 - name: nam-blue1
   memory: 350m
-  host:alex-demo-jenkins
-  domain:apps.sis.cf.canopy-cloud.com
+  host: alex-demo-jenkins
+  domain: apps.sis.cf.canopy-cloud.com
   #buildpack: https://github.com/heroku/heroku-buildpack-scala.git
   instances: 1
