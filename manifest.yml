@@ -3,6 +3,6 @@
 applications:
 - name: alex-jenkins-demo
   memory: 350m
-  domain: apps.sys.cf.canopy-cloud.com
+  domain: apps.cf.canopy-cloud.com
   #buildpack: https://github.com/heroku/heroku-buildpack-scala.git
   instances: 1
