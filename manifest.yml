@@ -1,9 +1,8 @@
 ---
 # Manifest for deploying application on CloudFoundry
 applications:
-- name: nam-blue1
+- name: alex-jenkins-demo
   memory: 350m
-  host: alex-demo-jenkins
   domain: apps.sis.cf.canopy-cloud.com
   #buildpack: https://github.com/heroku/heroku-buildpack-scala.git
   instances: 1
